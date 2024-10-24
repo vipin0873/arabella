@@ -13,7 +13,7 @@ const resources = [
   { title: "Fixed Assets Management", icon: "🏢", description: "Maintenance of fixed asset register and depreciation schedules." },
   { title: "Tax Support", icon: "📋", description: "Assistance with tax return preparation and compliance." },
   { title: "Startup Services", icon: "🚀", description: "Tailored financial solutions for digital startups and e-commerce." },
-  { title: "ERP Integration", icon: "🔗", description: "Seamless integration of ERPs for various online business models." },
+  { title: "ERP Integration", icon: "🔗", description: "Seamless integration of ERPs like Zoho , Quickbooks Online for various online business models." },
 ];
 
 export default function ResourcesSection() {
