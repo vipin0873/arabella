@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   description:
     "Empower your business with our expert financial services. From bookkeeping to tax optimization, we provide tailored solutions for your success.",
   keywords:
-    "financial services, bookkeeping, tax optimization, payroll management, business setup",
+    "financial services, bookkeeping, tax optimization, payroll management, quickbooks , Zoho  , business setup",
   openGraph: {
     title: "ArabellaConsultants | Your Business Growth Partner",
     description:
